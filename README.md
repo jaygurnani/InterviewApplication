@@ -1,9 +1,9 @@
 # Welcome to Interview Application
 Deployment Instructions:
-1. Install .Net Core
-2. Run the application 
-3. Navigate to localhost:5000/api/test to test the code
-4. If you are having issues with .Net Core please see the image folder for screen shots of the application
+* Install .Net Core
+* Run the application 
+* Navigate to localhost:5000/api/test to test the code
+* If you are having issues with .Net Core please see the image folder for screen shots of the application
 
 Instructions:
 1. Enter non-negative whole number below
