@@ -15,4 +15,4 @@ Instructions:
 Unit Test:
 * Number can be entered 
 * Letter can be entered
-Both of these are done on application create
+* Both of these tests are done on application create
